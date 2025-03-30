@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 
 export default function LandingPage() {
   return (
-    <div>
+    <div className=" ">
       <Navbar />
       <Hero />
       <CTA />

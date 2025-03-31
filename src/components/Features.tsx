@@ -57,7 +57,7 @@ export default function Features() {
             >
                 <motion.div
                     style={{ opacity, y, scale, rotateX: rotate }}
-                    className="bg-white text-black rounded-2xl p-8 md:p-12 lg:p-16 shadow-2xl border border-gray-200 lg:mx-10 mx-2 lg:-mt-20 bg-[url('4196430.jpg')] bg-cover bg-center bg-no-repeat"
+                    className="bg-white text-black rounded-2xl p-8 md:p-12 lg:p-16 shadow-2xl border border-gray-200 lg:mx-10 mx-2 lg:-mt-20 bg-[url('/4196430.jpg')] bg-cover bg-center bg-no-repeat"
                 >
                     <div ref={videoRef}>
                         <div className="bg-transparent aspect-video relative">

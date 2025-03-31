@@ -70,7 +70,7 @@ export default function BackgroundPaths() {
           className="max-w-4xl mx-auto"
         >
           <h1 className="text-5xl sm:text-7xl md:text-8xl font-bold lg:mb-40 tracking-tighter">
-          The Future of <span className="bg-custom-gradient bg-clip-text text-gradient-text">Search</span> Starts Here, <span className="text-[#BCBBC3]">Unlock Information Like Never Before.</span>
+          The Future of <span className="bg-shopify-gradient bg-clip-text text-gradient-text">Shopify</span><span className="bg-custom-gradient bg-clip-text text-gradient-text"> Search</span> Starts Here, <span className="text-[#BCBBC3]">Unlock Information Like Never Before.</span>
           </h1>
 
 
